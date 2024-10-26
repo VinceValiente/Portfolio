@@ -11,7 +11,7 @@ export const Bio = {
       "",
     linkedin: "https://www.linkedin.com",
     twitter: "",
-    insta: "https://www.instagram.com",
+    insta: "https://www.instagram.com/da.vinccii",
     facebook: "https://www.facebook.com/binssoyy/",
   };
   
