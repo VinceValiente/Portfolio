@@ -10,7 +10,7 @@ export const Bio = {
     resume:
       "",
     linkedin: "https://www.linkedin.com",
-    twitter: "",
+    twitter: "https://www.twitter.com/",
     insta: "https://www.instagram.com/da.vinccii",
     facebook: "https://www.facebook.com/binssoyy/",
   };
